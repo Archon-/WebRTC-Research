@@ -1,0 +1,27 @@
+{
+  "name": "WebRTC-Research",
+  "version": "0.0.1",
+  "description": "Experiments and research with WebRTC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Archon-/WebRTC-Research"
+  },
+  "keywords": [
+    "webrtc",
+    "html5",
+    "nodejs",
+    "socket.io",
+    "express"
+  ],
+  "author": "webrtc",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "~0.7.1",
+    "socket.io": "~0.9.16",
+    "express": "~3.4.0"
+  }
+}
